@@ -618,7 +618,7 @@ nav{
   line-height: 1;
   height:30px;
   width:30px;
-  border-radius: 3px;
+  border-radius: 4px;
   box-shadow: 1px 1px 4px rgba(0,0,0,0.15),-1px -1px 3px rgba(0,0,0,.16);
 }
 .card-cart .group-btn .count{
