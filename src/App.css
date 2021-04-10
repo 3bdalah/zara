@@ -561,6 +561,7 @@ nav {
 }
 .cart {
   height: auto;
+  
 }
 .cart-item-wrapper {
   margin-top: 2rem;
@@ -571,13 +572,17 @@ nav {
   align-items: center;
   border-radius: 3px;
   min-height: 10rem;
+  border:2px solid #fafafa;
+  padding:1px;
 }
 .cart-item-wrapper .box-img {
-  width: 100px;
+  width: 80px;
   height: 100px;
+  /* overflow: hidden; */
 }
 .cart-item-wrapper .img {
-  width: 100%;
+  width: 80px;
+  height:100px;
 }
 .cart-item-wrapper .data-item {
   text-align: left;
